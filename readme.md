@@ -60,7 +60,7 @@ Final look:
    ```
 ### Set Editor
 - Press `Alt + Shift + 4` to split window in 4 parts.
-- save 'inputf.in', 'outputf.in', 'debugf.in'
+- save 'input.txt', 'output.txt', 'debug.txt'
 - Press `Ctrl + B` to run code.
 
 ### Precompile HeaderFile
