@@ -72,6 +72,7 @@ Final look:
 - preferences -> settings add "save_on_window_deactivation": true
 
 // -----------------------------------------------------------------------------
+
 // my windows sublime setup
 `cp_windows.sublime-build`
 ```
